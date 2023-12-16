@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\bin\Debug\XmlWpf.exe.config
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\bin\Debug\XmlWpf.exe
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\bin\Debug\XmlWpf.pdb
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\App.g.cs
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf_MarkupCompile.cache
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf_MarkupCompile.lref
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\App.baml
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf.g.resources
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf.Properties.Resources.resources
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf.csproj.GenerateResource.cache
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf.exe
+C:\Users\User\Desktop\gobab\xmlss\XmlWpf\obj\Debug\XmlWpf.pdb
